@@ -1,0 +1,46 @@
+# main links links
+main:
+
+  # - title: "FPGA"
+  #   url: /FPGA/ 
+
+  # - title: "ASIC"
+  #   url: /ASIC/ 
+
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+  # - title: "Confidential Computing"
+  #   url: /Confidential_Computing/  
+
+  # - title: "Privacy-Preserving Computing"
+  #   url: /Privacy_Computing/  
+
+  # - title: "Processor"
+  #   url: /Processor/
+
+  - title: "News"
+    url: /News/
+
+  - title: "Research Projects"
+    url: /Research Projects/
+
+  # - title: "Blog"
+  #   url: /RVBOOK/
+
+  - title: "Publications"
+    url: /publications/
+
+
+  # - title: "Talks"
+  #   url: /talks/    
+    
+  # - title: "Portfolio"
+  #   url: /portfolio/
+        
+
+    
+  # - title: "CV"
+  #   url: /cv/
+    
+  # - title: "Guide"
+  #   url: /markdown/
