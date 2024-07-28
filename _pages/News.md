@@ -4,6 +4,7 @@ title: "Latest News"
 permalink: /News/
 author_profile: true
 ---
+2024-07-26 课题组孔春明课题“数据脱敏中去标示化技术应用”获奇安信公司创新创业资助计划资助<br>
 2024-06-11 课题组[周远航荣获网络空间安全学院2024届优秀毕业研究生](https://cyber.seu.edu.cn/2024/0611/c18217a493451/page.htm)<br>
 2024-06-07 课题组程晓宇获博士研究生创新能力提升计划资助<br>
 2024-05-31 课题组邀请浙江大学[高向珊博士做学术报告](https://cyber.seu.edu.cn/2024/0530/c20213a492081/page.htm)<br>
