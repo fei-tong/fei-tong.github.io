@@ -12,8 +12,8 @@ author_profile: true
 
 ## 2024
 
-- Liuxing Ding, **FFei Tong***, Fangyuan Xing, IMFGR: Incentive mechanism with Fine-grained Reputation for Federated Learning in Mobile Crowdsensing, AIoTSys 2024.
-- Xingyu Zhang, **FFei Tong***, Fangyuan Xing, FedMSD: Multi-Stage Defense Against Poisoning Attacks in Data Heterogeneous Federated Learning, AIoTSys 2024.
+- Liuxing Ding, **Fei Tong***, Fangyuan Xing, IMFGR: Incentive mechanism with Fine-grained Reputation for Federated Learning in Mobile Crowdsensing, AIoTSys 2024.
+- Xingyu Zhang, **Fei Tong***, Fangyuan Xing, FedMSD: Multi-Stage Defense Against Poisoning Attacks in Data Heterogeneous Federated Learning, AIoTSys 2024.
 - **Fei Tong***, Yuanhang Zhou\*, Kaiming Wang, Guang Cheng, Jianyu Niu, Shibo He, ["A Privacy-Preserving Incentive Mechanism for Mobile Crowdsensing based on Blockchain"](https://ieeexplore.ieee.org/document/10443590), <font color="red">IEEE Transactions on Dependable and Secure Computing (TDSC)</font>, Accepted, Feb. 2024.
 - Yuanhang Zhou, **Fei Tong***, Shibo He, ["Bi-objective Incentive Mechanism for Mobile Crowdsensing with Budget/Cost Constraint"](https://ieeexplore.ieee.org/document/9992184/), <font color="red">IEEE Transactions on Mobile Computing (TMC)</font>, vol. 23, no. 1, pp. 223-237, Jan. 2024. 
 - **Fei Tong**, Bowen Ding, Yujian Zhang, Shibo He, Yuyang Peng, ["A Single-Anchor Mobile Localization Scheme"](https://ieeexplore.ieee.org/document/9950331), <font color="red">IEEE Transactions on Mobile Computing (TMC)</font>, vol. 23, no. 1, pp. 56-69, Jan. 2024. 
