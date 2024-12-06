@@ -12,7 +12,7 @@ author_profile: true
 
 ## 2024
 
-- F. Xing, **Fei Tong***, J. Yang, G. Cheng, S. He, ["RAM: A Resource-Aware DDoS Attack Mitigation Framework in Clouds"](https://ieeexplore.ieee.org/document/10716488), <font color="red">IEEE Transactions on Cloud Computing (TCC)</font>, Accepted, 2024.
+- F. Xing, **Fei Tong***, J. Yang, G. Cheng, S. He, ["RAM: A Resource-Aware DDoS Attack Mitigation Framework in Clouds"](https://ieeexplore.ieee.org/document/10716488), <font color="red">IEEE Transactions on Cloud Computing (TCC)</font>, vol. 12, no. 4, pp. 1387-1400, 2024.
 - Liuxing Ding, **Fei Tong***, Fangyuan Xing, IMFGR: Incentive mechanism with Fine-grained Reputation for Federated Learning in Mobile Crowdsensing, AIoTSys 2024. 
 - Xingyu Zhang, **Fei Tong***, Fangyuan Xing, FedMSD: Multi-Stage Defense Against Poisoning Attacks in Data Heterogeneous Federated Learning, AIoTSys 2024.
 - **Fei Tong***, Yuanhang Zhou\*, Kaiming Wang, Guang Cheng, Jianyu Niu, Shibo He, ["A Privacy-Preserving Incentive Mechanism for Mobile Crowdsensing based on Blockchain"](https://ieeexplore.ieee.org/document/10443590), <font color="red">IEEE Transactions on Dependable and Secure Computing (TDSC)</font>, vol. 21, no. 6, Nov. 2024.
