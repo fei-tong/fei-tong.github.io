@@ -4,6 +4,7 @@ title: "Latest News"
 permalink: /News/
 author_profile: true
 ---
+2024-11-27 课题组[博士生程晓宇入选 USENIX Security'25 Artifact Evaluation Committee](https://www.usenix.org/conference/usenixsecurity25/call-for-papers)<br>
 2024-11-19 童飞获江苏省网络空间安全学会优秀科技工作者<br>
 2023-11-19 课题组周远航获江苏省网络空间安全学会优秀硕士论文奖<br>
 2023-11-15 课题组郑堃、丁柳欣获研究生国家奖学金<br>
