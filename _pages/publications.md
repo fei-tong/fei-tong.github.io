@@ -10,6 +10,10 @@ author_profile: true
 **Zhe Zhou\***, Xiaoyu Cheng, Yang Sun, Fang Jiang, Fei Tong <img src="/images/letter.png" alt="letter" title="letter">, Ruilin Wang<br>
  IEEE 21th TrustCom(**CCF-C**), 2022. -->
 
+## 2025
+
+- Zhe Zhou, **Fei Tong**, Hongyu Wang, Xiaoyu Cheng, Fang Jiang, Zhikun Zhang, Yuxing Mao, ["CIBPU: A Conflict-Invisible Secure Branch Prediction Unit"](https://arxiv.org/pdf/2501.10983), arXiv, 2025.
+
 ## 2024
 
 - F. Xing, **Fei Tong***, J. Yang, G. Cheng, S. He, ["RAM: A Resource-Aware DDoS Attack Mitigation Framework in Clouds"](https://ieeexplore.ieee.org/document/10716488), <font color="red">IEEE Transactions on Cloud Computing (TCC)</font>, vol. 12, no. 4, pp. 1387-1400, 2024.
