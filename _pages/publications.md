@@ -17,6 +17,8 @@ author_profile: true
 
 ## 2024
 
+- Fang Jiang, **Fei Tong**, Hongyu Wang, Xiaoyu Cheng, Zhe Zhou, Ming Ling, and Yuxing Mao, [PCG: Mitigating Conflict-based Cache Side-channel
+Attacks with Prefetching](https://arxiv.org/pdf/2405.03217), arXiv, 2024.
 - F. Xing, **Fei Tong***, J. Yang, G. Cheng, S. He, ["RAM: A Resource-Aware DDoS Attack Mitigation Framework in Clouds"](https://ieeexplore.ieee.org/document/10716488), <font color="red">IEEE Transactions on Cloud Computing (TCC)</font>, vol. 12, no. 4, pp. 1387-1400, 2024.
 - Liuxin Ding, **Fei Tong***, Fangyuan Xing, IMFGR: Incentive mechanism with Fine-grained Reputation for Federated Learning in Mobile Crowdsensing, AIoTSys 2024. 
 - Xingyu Zhang, **Fei Tong***, Fangyuan Xing, FedMSD: Multi-Stage Defense Against Poisoning Attacks in Data Heterogeneous Federated Learning, AIoTSys 2024.
