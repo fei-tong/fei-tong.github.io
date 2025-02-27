@@ -12,7 +12,8 @@ author_profile: true
 
 ## 2025
 
-- Xueji Yang, **Fei Tong***, Fang Jiang, Guang Cheng, A Lightweight and Dynamic Open-Set Intrusion Detection for Industrial Internet of Things, IEEE Transactions on Information Forensics & Security, accepted, 2025.
+- Xueji Yang, **Fei Tong***, Fang Jiang, Guang Cheng, A Lightweight and Dynamic Open-Set Intrusion Detection for Industrial Internet of Things, <font color="red">IEEE Transactions on Information Forensics & Security (TIFS)</font>, accepted, 2025.
+- Yuanhang Zhou, **Fei Tong***, Chunming Kong, Shibo He, Guang Cheng, Towards Efficient, Robust, and Privacy-preserving Incentives for Crowdsensing via Blockchain, <font color="red">IEEE Transactions on Mobile Computing (TMC)</font>, Accepted, 2025.
 - Zhe Zhou, **Fei Tong***, Hongyu Wang, Xiaoyu Cheng, Fang Jiang, Zhikun Zhang, Yuxing Mao, ["CIBPU: A Conflict-Invisible Secure Branch Prediction Unit"](https://arxiv.org/pdf/2501.10983), arXiv, 2025.
 
 ## 2024
