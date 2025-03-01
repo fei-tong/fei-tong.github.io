@@ -73,7 +73,7 @@ Attacks with Prefetching](https://arxiv.org/pdf/2405.03217), arXiv, 2024.
 ### 期刊论文
 
 - **Fei Tong**, S. He, J. Pan, “Modeling and Analysis for Data Collection in Duty-Cycled Linear Sensor Networks with Pipelined-Forwarding Feature”, IEEE Internet of Things Journal, 6(6):9489-9502, Dec. 2019.
-- **Fei Tong**, S. He, Y. Peng, Z. Shi, “A Tractable Analysis of Positioning Fundamentals in Low Power Wide Area Internet of Things”, IEEE Transactions on Vehicular Technology (TVT), 68(7):7024-7034, Jul. 2019.
+- **Fei Tong**, S. He, Y. Peng, Z. Shi, ["A Tractable Analysis of Positioning Fundamentals in Low Power Wide Area Internet of Things"](https://ieeexplore.ieee.org/document/8716575), IEEE Transactions on Vehicular Technology (TVT), 68(7):7024-7034, Jul. 2019.
 - **Fei Tong**, Y. Sun, S. He, ["On Positioning Performance for the Narrow-Band Internet of Things: How Participating eNBs Impact?"](https://ieeexplore.ieee.org/document/8489976), IEEE Transactions on Industrial Informatics(TII), 15(1):423–433, Jan. 2019.
 - **Fei Tong** and J. Pan, “Random-to-Random Nodal Distance Distributions in Finite Wireless Networks”, IEEE Transactions on Vehicular Technology (TVT), 66(11):10070-10083, Nov. 2017.
 - **Fei Tong**, Y. Wan, L. Zheng,J. Pan, L. Cai,“A Probabilistic Distance-based Modeling and Analysis for Cellular Networks with Underlaying Device-to-Device Communications”, IEEE Transactions on Wireless Communications (TWC), 16(1):451–463, Jan. 2017. 
