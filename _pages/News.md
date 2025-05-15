@@ -4,6 +4,7 @@ title: "Latest News"
 permalink: /News/
 author_profile: true
 ---
+2025-05-15 课题组IEEE TIFS论文获[江苏省网络空间安全学会优秀学术成果论文一等奖](https://www.jscsa.org.cn/contents/197/500.html)<br>
 2024-11-29 课题组[张晨宇获DataCon2024大数据安全分析竞赛线上赛漏洞分析赛道一等奖](https://mp.weixin.qq.com/s/f5W3SDWX3UBYfDrcnMldmw)<br>
 2024-11-27 课题组[博士生程晓宇入选 USENIX Security'25 Artifact Evaluation Committee](https://www.usenix.org/conference/usenixsecurity25/call-for-papers)<br>
 2024-11-19 童飞获江苏省网络空间安全学会优秀科技工作者<br>
