@@ -4,6 +4,10 @@ title: "Latest News"
 permalink: /News/
 author_profile: true
 ---
+2025-08-12 课题组程晓宇等工作被IEEE TIFS (CCF A) 录用<br>
+2025-07-14 课题组硕士生王凯明获得香港浸会大学[王田教授](https://www.scholat.com/adamwt)课题组博士Offer<br>
+2025-07-01 课题组江芳等工作被ICCAD 2025（CCF B）录用<br>
+2025-06-24 课题组本科生倪哲振本科毕业设计获2025校级本科优秀毕业设计（论文）<br>
 2025-06-18 课题组硕士生余默涵获得国家公派出国留学资格，赴加拿大英属哥伦比亚大学[Prof. Chen Feng](https://blockchain.ubc.ca/people/chen-feng)攻读博士学位<br>
 2025-05-26 课题组博士生程晓宇获得国家公派出国留学资格，赴新加坡国立大学[Prof. Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/)课题组进行博士联合培养<br>
 2025-05-15 课题组IEEE TIFS论文获[江苏省网络空间安全学科优秀学术成果论文一等奖](https://www.jscsa.org.cn/contents/197/500.html)<br>
