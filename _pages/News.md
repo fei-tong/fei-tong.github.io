@@ -4,7 +4,9 @@ title: "Latest News"
 permalink: /News/
 author_profile: true
 ---
-2025-08-12 课题组程晓宇等工作被IEEE TIFS (CCF A) 录用<br>
+2025-08-12 课题组程晓宇等工作被[IEEE TIFS (CCF A) 录用](https://ieeexplore.ieee.org/document/11123915/)<br>
+2025-07-30 课题组周喆、程晓宇、雷阵雨团队，江芳、陶川南、张永霖团队获得[第8届中国研究生创“芯”大赛Cadence企业命题二等奖](https://cpipc.acge.org.cn//cw/detail/10/2c90801798476ff0019874a24c26666d)<br>
+2025-07-28 课题组雷镇宇课题“处理器微架构安全攻击技术建模”获华为公司创新创业资助计划资助<br>
 2025-07-14 课题组硕士生王凯明获得香港浸会大学[王田教授](https://www.scholat.com/adamwt)课题组博士Offer<br>
 2025-07-01 课题组江芳等工作被ICCAD 2025（CCF B）录用<br>
 2025-06-24 课题组本科生倪哲振本科毕业设计获2025校级本科优秀毕业设计（论文）<br>
