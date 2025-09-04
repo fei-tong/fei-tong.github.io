@@ -12,6 +12,7 @@ author_profile: true
 
 ## 2025
 
+- **Fei Tong***, Zihao Li, Guang Cheng, Yujian Zhang, Heng Li, ["sBugChecker: A Systematic Framework for Detecting Solidity Compiler-Introduced Bugs"], <font color="red">IEEE Transactions on Information Forensics & Security (TIFS)</font>, accepted, Sep. 2025.
 - Xiaoyu Cheng, **Fei Tong***, Zhe Zhou, Fang Jiang, Hongyu Wang, Guang Cheng, ["SCSGuardian: A Practical Hardware Defense against Speculative Cache Side-Channel Attacks"](https://ieeexplore.ieee.org/document/11123915), <font color="red">IEEE Transactions on Information Forensics & Security (TIFS)</font>, vol. 20, pp. 8833-8847, 2025.
 - Xueji Yang, **Fei Tong***, Fang Jiang, Guang Cheng, ["A Lightweight and Dynamic Open-Set Intrusion Detection for Industrial Internet of Things"](https://ieeexplore.ieee.org/document/10908210), <font color="red">IEEE Transactions on Information Forensics & Security (TIFS)</font>, vol. 20, pp. 2930-2943, 2025.
 - Yuanhang Zhou, **Fei Tong***, Chunming Kong, Shibo He, Guang Cheng, ["Towards Efficient, Robust, and Privacy-preserving Incentives for Crowdsensing via Blockchain"](https://ieeexplore.ieee.org/document/10908903), <font color="red">IEEE Transactions on Mobile Computing (TMC)</font>, vol. 24, no. 8, pp. 7136-7151, 2025.
