@@ -23,6 +23,7 @@ author_profile: true
 
 ## 2024
 
+- Xiaoyu Cheng, **Fei Tong***, Hongyu Wang, Zhe Zhou, Fang Jiang, Yuxing Mao, ["SpecLFB: Eliminating Cache Side Channels in Speculative Executions"](https://www.usenix.org/conference/usenixsecurity24/presentation/cheng-xiaoyu),  <font color="red">USENIX Security Symposium</font>, pp. 631-646, 2024.
 - Fang Jiang, **Fei Tong**, Hongyu Wang, Xiaoyu Cheng, Zhe Zhou, Ming Ling, and Yuxing Mao, [PCG: Mitigating Conflict-based Cache Side-channel
 Attacks with Prefetching](https://arxiv.org/pdf/2405.03217), arXiv, 2024.
 - F. Xing, **Fei Tong***, J. Yang, G. Cheng, S. He, ["RAM: A Resource-Aware DDoS Attack Mitigation Framework in Clouds"](https://ieeexplore.ieee.org/document/10716488), <font color="red">IEEE Transactions on Cloud Computing (TCC)</font>, vol. 12, no. 4, pp. 1387-1400, 2024.
@@ -35,7 +36,6 @@ Attacks with Prefetching](https://arxiv.org/pdf/2405.03217), arXiv, 2024.
 
 ## 2023
 
-- Xiaoyu Cheng, **Fei Tong***, Hongyu Wang, Zhe Zhou, Fang Jiang, Yuxing Mao, ["SpecLFB: Eliminating Cache Side Channels in Speculative Executions"](https://www.usenix.org/conference/usenixsecurity24/presentation/cheng-xiaoyu),  <font color="red">USENIX Security Symposium</font>, pp. 631-646, 2024.
 - **Fei Tong**, Cheng Chen, Jianping Pan, [A Novel Detection and Localization Scheme for Wormhole Attack in the Internet of Things](https://ieeexplore.ieee.org/document/10251919), <font color="red">IEEE Internet of Things Journal</font>, vol.11, no. 4, pp. 7141-7152, Sep. 2023.
 - **Fei Tong**, Xing Chen, Cheng Huang, Yujian Zhang, Xuemin Shen, ["Blockchain-Assisted Secure Intra/Inter-Domain Authorization and Authentication for Internet of Things"](https://ieeexplore.ieee.org/document/9993749), <font color="red">IEEE Internet of Things Journal</font>, vol. 10, no. 9, pp. 7761-7773, May 2023.
 - **童飞**, 邵冉冉. [基于区块链的云上数据访问控制模型研究](https://www.jsjkx.com/CN/10.11896/jsjkx.230500239)[J]. 计算机科学, 2023, 50(9): 16-25. 
