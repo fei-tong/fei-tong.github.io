@@ -4,6 +4,8 @@ title: "Latest News"
 permalink: /News/
 author_profile: true
 ---
+2025-11-02 课题组张晨宇等工作被IEEE Internet of Things Journal 录用<br>
+2025-10-31 课题组周远航硕士学位论文《群智感知中基于区块链的激励机制与隐私保护研究》被评为2025年度东南大学优秀硕士学位论文<br>
 2025-09-04 课题组李子豪等工作被[IEEE TIFS (CCF A) 录用](https://ieeexplore.ieee.org/document/11159069)<br>
 2025-08-16 本科生段傲铧团队获全国大学生信息安全竞赛作品赛二等奖<br>
 2025-08-12 课题组程晓宇等工作被[IEEE TIFS (CCF A) 录用](https://ieeexplore.ieee.org/document/11123915/)<br>
