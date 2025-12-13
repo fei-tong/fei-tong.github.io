@@ -1,4 +1,4 @@
-<img width="855" height="320" alt="image" src="https://github.com/user-attachments/assets/20d0cb3a-4ffa-412a-85c5-bd2ae033123d" />---
+---
 layout: archive
 title: "Latest News"
 permalink: /News/
