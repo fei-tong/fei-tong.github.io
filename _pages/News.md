@@ -1,9 +1,10 @@
----
+<img width="855" height="320" alt="image" src="https://github.com/user-attachments/assets/20d0cb3a-4ffa-412a-85c5-bd2ae033123d" />---
 layout: archive
 title: "Latest News"
 permalink: /News/
 author_profile: true
 ---
+2025-12-13 课题组程晓宇获国家自然科学基金青年学生基础研究项目资助<br>
 2025-11-02 课题组张晨宇等工作被IEEE Internet of Things Journal 录用<br>
 2025-10-31 课题组周远航硕士学位论文《群智感知中基于区块链的激励机制与隐私保护研究》被评为2025年度东南大学优秀硕士学位论文<br>
 2025-09-04 课题组李子豪等工作被[IEEE TIFS (CCF A) 录用](https://ieeexplore.ieee.org/document/11159069)<br>
