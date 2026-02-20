@@ -10,9 +10,12 @@ author_profile: true
 **Zhe Zhou\***, Xiaoyu Cheng, Yang Sun, Fang Jiang, Fei Tong <img src="/images/letter.png" alt="letter" title="letter">, Ruilin Wang<br>
  IEEE 21th TrustCom(**CCF-C**), 2022. -->
 
+## 2026
+
+- C. Zhang, Z. Tang and **F. Tong***, ["LEGEM: A Scalable and Adversarial-Resilient Framework for Cross-Platform IoT Binary Vulnerability Detection"](https://ieeexplore.ieee.org/document/11235936), <font color="red">IEEE Internet of Things Journal</font>, vol. 12, no. 1, pp. 1379-1389, 2026.
+
 ## 2025
 
-- C. Zhang, Z. Tang and **F. Tong***, ["LEGEM: A Scalable and Adversarial-Resilient Framework for Cross-Platform IoT Binary Vulnerability Detection"](https://ieeexplore.ieee.org/document/11235936), <font color="red">IEEE Internet of Things Journal</font>, Accepted, 2025.
 - F. Jiang, **F. Tong***, X. Cheng, Z. Zhou, H. Wang and Y. Mao, ["SpectrePrefetch: Undermining Cache-Centric Secure Speculation with Modern Hardware Prefetchers"](https://ieeexplore.ieee.org/document/11240638), IEEE/ACM International Conference On Computer Aided Design (ICCAD), Munich, Germany, 2025, pp. 1-9, doi: 10.1109/ICCAD66269.2025.11240638.
 - **Fei Tong***, Zihao Li, Guang Cheng, Yujian Zhang, Heng Li, ["sBugChecker: A Systematic Framework for Detecting Solidity Compiler-Introduced Bugs"](https://ieeexplore.ieee.org/document/11159069), <font color="red">IEEE Transactions on Information Forensics & Security (TIFS)</font>, vol. 20, pp. 9760-9775, 2025.
 - Xiaoyu Cheng, **Fei Tong***, Zhe Zhou, Fang Jiang, Hongyu Wang, Guang Cheng, ["SCSGuardian: A Practical Hardware Defense against Speculative Cache Side-Channel Attacks"](https://ieeexplore.ieee.org/document/11123915), <font color="red">IEEE Transactions on Information Forensics & Security (TIFS)</font>, vol. 20, pp. 8833-8847, 2025.
