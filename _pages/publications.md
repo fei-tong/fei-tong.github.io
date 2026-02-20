@@ -12,6 +12,7 @@ author_profile: true
 
 ## 2026
 
+- **F. Tong***, H. Yang, F. Xing, S. He, H. Wng, H. Li, ["TDMRP: A Transparent and Decentralized Management of Reputation and Pseudonym in IoV"](https://ieeexplore.ieee.org/document/11397832), <font color="red">IEEE Internet of Things Journal</font>, in press, 2026.
 - C. Zhang, Z. Tang and **F. Tong***, ["LEGEM: A Scalable and Adversarial-Resilient Framework for Cross-Platform IoT Binary Vulnerability Detection"](https://ieeexplore.ieee.org/document/11235936), <font color="red">IEEE Internet of Things Journal</font>, vol. 12, no. 1, pp. 1379-1389, 2026.
 
 ## 2025
