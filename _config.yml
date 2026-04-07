@@ -80,11 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "童飞，副教授，博导"
+  name             : "Fei Tong，Associate Professor, PhD Supervisor"
   avatar           : "profile.JPG"
   bio              : "江苏省泛在网络安全工程研究中心 副主任&nbsp;&nbsp;&nbsp;&nbsp;</p>至善青年学者"
   location         : "中国南京,无线谷A6214"
   employer         : "东南大学网络空间安全学院"
+  employer         : Southeast University
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=tkSzax8AAAAJ&hl=en"
   email            : "ftong@seu.edu.cn"
