@@ -12,7 +12,6 @@ author_profile: true
 
 ## 2026
 
-- **Fei Tong***, Chunming Kong, Yuanhang Zhou, Fangyuan Xing, Guang Cheng, Shibo He,  ["BPQA: a Blockchain-based Privacy-Preserving and Quality-Aware Incentive for Mobile Crowdsensing"](https://ieeexplore.ieee.org/document/11480958), <font color="red">IEEE Transactions on Mobile Computing (TMC)</font>, in press, 2026.
 - **Fei Tong***, Chunming Kong, Yuanhang Zhou, Fangyuan Xing, Guang Cheng, Shibo He,  <a href="https://ieeexplore.ieee.org/document/11480958" target="_blank">"BPQA: a Blockchain-based Privacy-Preserving and Quality-Aware Incentive for Mobile Crowdsensing"</a>, <font color="red">IEEE Transactions on Mobile Computing (TMC)</font>, in press, 2026.
 - Zhe Zhou, Xiaoyu Cheng, Fang Jiang, **Fei Tong***, Hongyu Wang, Zhikun Zhang, and Yuxing Mao, ["CIBPU: A Conflict-Invisible Secure Branch Prediction Unit"](), <font color="red">IEEE Transactions on Information Forensics & Security (TIFS)</font>, in press, 2026.
 - **F. Tong***, H. Yang, F. Xing, S. He, H. Wang, H. Li, ["TDMRP: A Transparent and Decentralized Management of Reputation and Pseudonym in IoV"](https://ieeexplore.ieee.org/document/11397832), <font color="red">IEEE Transactions on Vehicular Technology (TVT)</font>, in press, 2026.
