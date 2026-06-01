@@ -12,6 +12,7 @@ author_profile: true
 
 ## 2026
 
+- **Fei Tong***, Haoxuan Zang, Fang Jiang, Guodong Li, Hongyi Qiu, <a href="https://ieeexplore.ieee.org/document/11534972" target="_blank" rel="noopener noreferrer">"Reentrancy Vulnerability Detection in Smart Contracts Based on Adversarial Examples"</a>, <font color="red">IEEE Transactions on Dependable and Secure Computing (TDSC)</font>, in press, 2026.
 - **Fei Tong***, Chunming Kong, Yuanhang Zhou, Fangyuan Xing, Guang Cheng, Shibo He,  <a href="https://ieeexplore.ieee.org/document/11480958" target="_blank" rel="noopener noreferrer">"BPQA: a Blockchain-based Privacy-Preserving and Quality-Aware Incentive for Mobile Crowdsensing"</a>, <font color="red">IEEE Transactions on Mobile Computing (TMC)</font>, in press, 2026.
 - Zhe Zhou, Xiaoyu Cheng, Fang Jiang, **Fei Tong***, Hongyu Wang, Zhikun Zhang, and Yuxing Mao, <a href="https://ieeexplore.ieee.org/document/11480176" target="_blank" rel="noopener noreferrer">"CIBPU: A Conflict-Invisible Secure Branch Prediction Unit"</a>, <font color="red">IEEE Transactions on Information Forensics & Security (TIFS)</font>, vol. 21, pp. 3872-3886, 2026.
 - **F. Tong***, H. Yang, F. Xing, S. He, H. Wang, H. Li, ["TDMRP: A Transparent and Decentralized Management of Reputation and Pseudonym in IoV"](https://ieeexplore.ieee.org/document/11397832), <font color="red">IEEE Transactions on Vehicular Technology (TVT)</font>, in press, 2026.
