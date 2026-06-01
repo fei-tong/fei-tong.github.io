@@ -7,6 +7,7 @@ author_profile: true
 2026-05-31 课题组与新加坡国立大学[Prof. Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/)合作工作被USENIX Security 2026录用<br>
 2026-05-29 李子豪获2026年东南大学优秀硕士学位论文<br>
 2026-05-28 杨雪冀获得国家公派出国留学资格<br>
+2026-05-20 课题组在智能合约重入漏洞检测方面的工作被IEEE TDSC (CCF A)录用<br>
 2026-04-11 课题组与浙江大学贺诗波教授合作工作被IEEE TDSC (CCF A)录用<br>
 2025-12-13 课题组程晓宇获国家自然科学基金青年学生基础研究项目资助<br>
 2025-11-02 课题组张晨宇等工作被IEEE Internet of Things Journal 录用<br>
