@@ -12,7 +12,7 @@ author_profile: true
 
 ## 2026
 
-- Anonymized Title (Details under embargo until August 12, 2026) X. Cheng, F. Tong, Z. Lei, F. Jiang, Z. Zhou, G. Cheng, and T. E. Carlson, <font color="red">USENIX Security Symposium</font>, 2026.
+- Anonymized Title (Details under embargo until August 12, 2026), X. Cheng, **F. Tong***, Z. Lei, F. Jiang, Z. Zhou, G. Cheng, and T. E. Carlson, <font color="red">USENIX Security Symposium</font>, 2026.
 - **Fei Tong***, Haoxuan Zang, Fang Jiang, Guodong Li, Hongyi Qiu, <a href="https://ieeexplore.ieee.org/document/11534972" target="_blank" rel="noopener noreferrer">"Reentrancy Vulnerability Detection in Smart Contracts Based on Adversarial Examples"</a>, <font color="red">IEEE Transactions on Dependable and Secure Computing (TDSC)</font>, in press, 2026.
 - **Fei Tong***, Chunming Kong, Yuanhang Zhou, Fangyuan Xing, Guang Cheng, Shibo He,  <a href="https://ieeexplore.ieee.org/document/11480958" target="_blank" rel="noopener noreferrer">"BPQA: a Blockchain-based Privacy-Preserving and Quality-Aware Incentive for Mobile Crowdsensing"</a>, <font color="red">IEEE Transactions on Mobile Computing (TMC)</font>, in press, 2026.
 - Zhe Zhou, Xiaoyu Cheng, Fang Jiang, **Fei Tong***, Hongyu Wang, Zhikun Zhang, and Yuxing Mao, <a href="https://ieeexplore.ieee.org/document/11480176" target="_blank" rel="noopener noreferrer">"CIBPU: A Conflict-Invisible Secure Branch Prediction Unit"</a>, <font color="red">IEEE Transactions on Information Forensics & Security (TIFS)</font>, vol. 21, pp. 3872-3886, 2026.
