@@ -5,12 +5,14 @@ permalink: /News/
 author_profile: true
 ---
 2026-08-22 本科生刘赛阁团队获全国大学生信息安全竞赛作品赛三等奖<br>
+2026-08-11 课题组获鲲鹏昇腾科教创新孵化中心项目资助<br>
 2026-05-31 课题组与新加坡国立大学[Prof. Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/)合作工作被[USENIX Security 2026录用](https://sec26cycle2.usenix.hotcrp.com/paper/2187)<br> 
 2026-05-29 李子豪获2026年东南大学优秀硕士学位论文<br>
 2026-05-28 杨雪冀获得国家公派出国留学资格<br>
 2026-05-20 课题组在智能合约重入漏洞检测方面的工作被[IEEE TDSC (CCF A)录用](https://ieeexplore.ieee.org/document/11534972)<br>
 2026-04-11 课题组与浙江大学贺诗波教授合作工作被[IEEE TMC (CCF A)录用](https://ieeexplore.ieee.org/document/11480958)<br>
 2026-04-07 课题组与江苏宇慧源王宏宇博士（高级工程师）、重庆大学毛玉星教授合作工作被[IEEE TIFS (CCF A）录用](https://ieeexplore.ieee.org/document/11480176)<br>
+2025-12-14 课题组获互联网体系结构全国重点实验室重点课题资助<br>
 2025-12-13 课题组程晓宇获国家自然科学基金青年学生基础研究项目资助<br>
 2025-11-02 课题组张晨宇等工作被IEEE Internet of Things Journal 录用<br>
 2025-11-01 课题组李子豪获江苏省网络空间安全学会优秀硕士论文奖<br>
