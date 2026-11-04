@@ -34,6 +34,7 @@ author_profile: true
 2025-05-15 课题组IEEE TIFS论文获[江苏省网络空间安全学科优秀学术成果论文一等奖](https://www.jscsa.org.cn/contents/197/500.html)<br>
 2025-05-08 课题组邀请南京大学[吕伟龙博士做学术报告](https://cyber.seu.edu.cn/2025/0506/c20213a526921/page.htm)<br>
 2025-04-30 课题组邀请加拿大维多利亚大学[黄之鸣博士做学术报告](https://cyber.seu.edu.cn/2025/0429/c20213a526630/page.htm)<br>
+2025-01 童飞获DataCon2024大数据安全分析竞赛优秀组织奖
 2024-11-29 课题组[张晨宇获DataCon2024大数据安全分析竞赛线上赛漏洞分析赛道一等奖](https://mp.weixin.qq.com/s/f5W3SDWX3UBYfDrcnMldmw)<br>
 2024-11-27 课题组[博士生程晓宇入选 USENIX Security'25 Artifact Evaluation Committee](https://www.usenix.org/conference/usenixsecurity25/call-for-papers)<br>
 2024-11-19 童飞获江苏省网络空间安全学会优秀科技工作者<br>
