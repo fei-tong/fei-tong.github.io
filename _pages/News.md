@@ -4,7 +4,7 @@ title: "Latest News"
 permalink: /News/
 author_profile: true
 ---
-2026-08-22 本科生刘赛阁团队获全国大学生信息安全竞赛作品赛三等奖<br>
+2026-08-22 本科生刘赛阁团队获第19届全国大学生信息安全竞赛作品赛三等奖<br>
 2026-08-11 课题组获鲲鹏昇腾科教创新孵化中心课题资助<br>
 2026-05-31 课题组与新加坡国立大学[Prof. Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/)合作工作被[USENIX Security 2026录用](https://sec26cycle2.usenix.hotcrp.com/paper/2187)<br> 
 2026-05-29 李子豪获2026年东南大学优秀硕士学位论文<br>
@@ -20,7 +20,7 @@ author_profile: true
 2025-10-22 课题组杨雪冀获博士新生奖学金<br>
 2025-10-11 课题组程晓宇获博士研究生国家奖学金；位炳望、张阿伦获硕士研究生国家奖学金；张晨宇获东南大学至善奖学金<br>
 2025-09-04 课题组李子豪等工作被[IEEE TIFS (CCF A) 录用](https://ieeexplore.ieee.org/document/11159069)<br>
-2025-08-16 本科生段傲铧团队获全国大学生信息安全竞赛作品赛二等奖<br>
+2025-08-16 本科生段傲铧团队获第18届全国大学生信息安全竞赛作品赛二等奖<br>
 2025-08-12 课题组程晓宇等工作被[IEEE TIFS (CCF A) 录用](https://ieeexplore.ieee.org/document/11123915/)<br>
 2025-07-30 课题组周喆、程晓宇、雷镇宇团队获得[第8届中国研究生创“芯”大赛Cadence企业命题二等奖](https://cpipc.acge.org.cn//cw/detail/10/2c90801798476ff0019874a24c26666d)<br>
 2025-07-30 课题组江芳、陶川南、张永霖团队获得[第8届中国研究生创“芯”大赛Cadence企业命题二等奖](https://cpipc.acge.org.cn//cw/detail/10/2c90801798476ff0019874a24c26666d)<br>
