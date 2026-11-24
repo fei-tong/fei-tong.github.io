@@ -12,6 +12,7 @@ author_profile: true
 
 ## 2026
 
+- **F. Tong***, Y. Qi, Y. Zhang, G. Cheng, Y. Peng, <a href="" target="_blank" rel="noopener noreferrer">"A Multidimensional Interference Sample Generation Framework for Robustness Evaluation of Reentrancy Vulnerability Detection in Smart Contracts"</a>, <font color="red">IEEE Transactions on Dependable and Secure Computing (TDSC)</font>, in press, 2026. 
 - **F. Tong***, H. Wang, F. Xing, <a href="https://authors.elsevier.com/tracking/article/details.do?aid=112975&jid=COMPNW&surname=Tong" target="_blank" rel="noopener noreferrer">"HFL-DDoS: Attention-Guided Mutual Distillation for Heterogeneous Federated DDoS Detection"</a>, <font color="red">Computer Networks</font>, in press, 2026.
 - K. Wang, **F. Tong***, M. Yu, R. Han, H. Li and Y. Peng, <a href="https://ieeexplore.ieee.org/document/11720364" target="_blank" rel="noopener noreferrer">"A Blockchain-Assisted Privacy-Preserving Cross-Domain Authentication for Internet of Things"</a>, <font color="red">IEEE Internet of Things Journal</font>, in press, 2026.
 - Xiaoyu Cheng, **F. Tong***, Z. Lei, F. Jiang, Z. Zhou, G. Cheng, and T. E. Carlson, <a href="https://www.usenix.org/conference/usenixsecurity26/presentation/cheng" target="_blank" rel="noopener noreferrer">"Exploiting Hidden Resource Contention in Selective Speculation Defenses"</a>, <font color="red">USENIX Security Symposium</font>, 2026. (<a href="https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7069.html" target="_blank" rel="noopener noreferrer">基于本论文，AMD发布AMD-SB-7069安全通告</a>).
